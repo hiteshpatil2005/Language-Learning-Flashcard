@@ -4,11 +4,11 @@
   <img src="https://github.com/hiteshpatil2005/Language-Learning-Flashcard/blob/main/3654704_a07b_4.jpg" alt="Project Logo or Screenshot" width="400">
 </p>
 
-## Introduction
+## Introduction:-
 
 The Language Learning Flashcard Project is a Python-based application designed to help users learn new languages using flashcards. The project utilizes a graphical user interface (GUI) built with the Tkinter library, making it easy to interact with and visually appealing.
 
-## Features
+## Features:-
 
 - **Flashcards**: Display flashcards with words or phrases in different languages.
 - **CSV Integration**: Easy handling of quiz score using a CSV file.
@@ -17,7 +17,7 @@ The Language Learning Flashcard Project is a Python-based application designed t
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites :-
 
 - Python 3.x
 - Tkinter (usually included with Python)
