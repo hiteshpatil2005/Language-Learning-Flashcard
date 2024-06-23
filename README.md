@@ -1,7 +1,7 @@
 # Language Learning Flashcard Project
 
 <p align="center">
-  <img src="https://github.com/hiteshpatil2005/Language-Learning-Flashcard/blob/main/3654704_a07b_4.jpg" alt="Project Logo or Screenshot" width="400">
+  <img src="https://github.com/hiteshpatil2005/Language-Learning-Flashcard/blob/main/img/3654704_a07b_4.jpg" alt="Project Logo or Screenshot" width="600">
 </p>
 
 
