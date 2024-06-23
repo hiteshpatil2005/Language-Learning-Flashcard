@@ -4,9 +4,18 @@
   <img src="https://github.com/hiteshpatil2005/Language-Learning-Flashcard/blob/main/3654704_a07b_4.jpg" alt="Project Logo or Screenshot" width="400">
 </p>
 
+
 ## Introduction:-
 
 The Language Learning Flashcard Project is a Python-based application designed to help users learn new languages using flashcards. The project utilizes a graphical user interface (GUI) built with the Tkinter library, making it easy to interact with and visually appealing.
+
+
+### Language Use 💡
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  
 
 ## Features:-
 
