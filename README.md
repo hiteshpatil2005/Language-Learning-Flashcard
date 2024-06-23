@@ -4,12 +4,6 @@
   <img src="YOUR_IMAGE_URL" alt="Project Logo or Screenshot" width="400">
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch the video">
-  </a>
-</p>
-
 ## Introduction
 
 The Language Learning Flashcard Project is a Python-based application designed to help users learn new languages using flashcards. The project utilizes a graphical user interface (GUI) built with the Tkinter library, making it easy to interact with and visually appealing.
